@@ -1,6 +1,5 @@
 # Heart-Disease_Prediction
-Heart disease prediction model using different classification models.
-This repository is made as a reference to the report "Heart disease prediction using Machine Learning" by Yash Singh and Harshit Kumar Aggarwal to be submitted in the amity confluence.
+Heart disease prediction model using different classification models and their comparisons. This project was made for the research paper "SVM Based Risk Estimation for Heart Disease Prediction" published and presented in amity universities' confluence-2024.
 
 The data set used is from the UCI ML repository, the set dates from 1988 and consists of four databases (Cleveland, Hungary, Switzerland, Long Beach). It consists of 76 attributes but usually published experiments refer to a subset of 14 of them. 
 1. Age 
