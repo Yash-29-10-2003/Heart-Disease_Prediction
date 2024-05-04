@@ -1,5 +1,5 @@
 # Heart-Disease_Prediction
-Heart disease prediction model using different classification models and their comparisons. This project was made for the research paper "SVM Based Risk Estimation for Heart Disease Prediction" published and presented in amity universities' confluence-2024.
+Heart disease prediction model using different classification models and their comparisons. This project was made for the research paper "SVM Based Risk Estimation for Heart Disease Prediction" published under IEEE Xplore (https://ieeexplore.ieee.org/document/10463271) and presented in amity universities' confluence-2024.
 
 The data set used is from the UCI ML repository, the set dates from 1988 and consists of four databases (Cleveland, Hungary, Switzerland, Long Beach). It consists of 76 attributes but usually published experiments refer to a subset of 14 of them. 
 1. Age 
