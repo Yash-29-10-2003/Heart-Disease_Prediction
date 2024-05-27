@@ -19,3 +19,6 @@ The data set used is from the UCI ML repository, the set dates from 1988 and con
 
 Following are the test score results for all the models :
 ![image](https://github.com/Yash-29-10-2003/Heart-Disease_Prediction/assets/89728102/828d52dd-c1aa-488c-aec7-13e241bb5b7f)
+
+# Update
+Refer to my heart disease preedictor repository for an application i made for heart disease prediction using the traineed SVM model from here.
